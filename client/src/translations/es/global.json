@@ -1,0 +1,125 @@
+{
+  "Common": {
+    "incompleteFields": "Completar todos los campos requeridos",
+    "invalidBudget": "El presupuesto no puede ser menor que 0",
+    "confirm": "Confirmar",
+    "cancel": "Cancelar",
+    "close": "Cerrar",
+    "seats": "Asientos",
+    "book": "Reservar",
+    "commingSoon": "Próximamente",
+    "thanks": "Gracias!",
+    "send": "Enviar",
+    "yes": "Si",
+    "exit": "Salir",
+    "confirmBooking": "Confirmar reserva"
+  },
+  "Alerts": {
+    "showing": "Mostrando vuelos a {{destination}}",
+    "booking": {
+      "success": "'Vuelo reservado con éxito!'",
+      "successReturn": "Vuelo de retorno reservado con éxito!",
+      "noBooked": "No se ha reservado ningún vuelo"
+    },
+    "sortOrder": "Resultados ordenados por {{by}}",
+    "fetchingDataError": {
+      "title": "Oops...",
+      "text": "Algo salió mal 😓",
+      "footer": "Por favor, intenta nuevamente más tarde"
+    },
+    "challengeEnding": {
+      "title": "Felicitaciones!! tu reserva ha sido confirmada!!",
+      "text": "✈️ Este es el final de la demo App!! 🎉 (Ninguna reserva real ha sido realizada)"
+    },
+    "finalBookingConfirmation": {
+      "title": "Cuál es tu email?",
+      "text": "Necesitamos tu email para confirmar la reserva",
+      "validationMessage": "Por favor, ingresa un email válido"
+    },
+    "bookingConfirmAlert": {
+      "title": "Buscar un vuelo de retorno?"
+    },
+    "bookFlightSeats": {
+      "title": "Cuantos pasajeros viajan?",
+      "text": "(mayores de 2 años)",
+      "confirmSeats": "Confirmar asientos"
+    },
+    "noMatchingOriginToast": {
+      "title": "Lo sentimos pero en este momento no contamos con vuelos saliendo desde tu país 😓",
+      "text": "No te preocupes, igual te mostraremos todos nuestros vuelos disponibles ✈️"
+    },
+    "noReturnFlightsAlert": {
+      "title": "No hay vuelos de retorno disponibles‼️",
+      "text": "Todos los vuelos estan llenos",
+      "confirmButtonText": "Confirmar sólo ida",
+      "denyButtonText": "Limpiar vuelos"
+    }
+  },
+  "Nav": {
+    "destinations": "Destinos",
+    "offers": "Ofertas",
+    "aboutUs": "Conocenos"
+  },
+  "Welcome": {
+    "title": "👋 Bienvenid@!",
+    "subtitle": {
+      "one": "Creamos esta app para ayudarte a decidir a donde viajar por Sudamérica de forma súper fácil!.",
+      "two": "Contanos desde donde viajas, cuál es tu presupuesto en U$D y nosotros te hacemos las mejores recomendaciones de viaje para vos!"
+    },
+    "button": {
+      "title": "¿<0>Dónde viajo</0> con <1>Travel App</1>?",
+      "subtitle": "Click para descubrirlo!"
+    }
+  },
+  "ImageGrid": {
+    "travelTo": "Viajar a",
+    "knowMore": "Conocé más! próximamente"
+  },
+  "BookingInfo": {
+    "yourBooking": "Tu reserva:",
+    "yourFlight": "Tu vuelo:",
+    "firstLeg": "Vuelo de ida:",
+    "secondLeg": "Vuelo de retorno:",
+    "chooseSecondLeg": "Elegí un vuelo de retorno",
+    "finalPrice": "Precio final: {{price}}",
+    "changeOrigin": "Cambiar origen",
+    "cleanFlights": "Limpiar vuelos"
+  },
+  "DestinationOptions": {
+    "chooseFlight": "Elegí tu destino ideal",
+    "returnFlight": "Elegí tu vuelo de retorno",
+    "visit": "Te recomendamos visitar {{destination}}"
+  },
+  "Flights": {
+    "origin": "Origen",
+    "destination": "Destino",
+    "date": "Fecha",
+    "seats": "Asientos",
+    "price": "Precio",
+    "passengers": "Pasajeros",
+    "departure": "Salida",
+    "arrival": "Llegada",
+    "sort": "Hace click cada título para cambiar el ordenamiento de las opciones",
+    "departureIn": "Salida en {{date}}",
+    "seatsAvailable": "<0>Último lugar!</0>",
+    "seatsAvailable_plural": "Quedan <0>{{count}}</0> lugares!",
+    "full": "Vuelo completo",
+    "pricePerPAX": "Precio por pasajero",
+    "nonStop": "Vuelo directo!"
+  },
+  "Modal": {
+    "loading": {
+      "title": "Cargando destinos increibles"
+    },
+    "intro": {
+      "title": "Nos gustaría conocerte!",
+      "subtitle": "Completá la siguiente información para que podamos ofrecerte las mejores y más baratas opciones para tu viaje 🧳",
+      "inputs": {
+        "name": "¿Cómo te llamas?",
+        "from": "¿Desde dónde viajás?",
+        "budget": "¿Cuál es tu presupuesto?"
+      },
+      "seeOffers": "Ver ofertas"
+    }
+  }
+}

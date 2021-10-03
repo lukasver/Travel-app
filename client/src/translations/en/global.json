@@ -1,0 +1,125 @@
+{
+  "Common": {
+    "incompleteFields": "Fill all required fields",
+    "invalidBudget": "Budget cannot be below 0",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "close": "Close",
+    "seats": "Seats",
+    "book": "Book",
+    "commingSoon": "Comming soon",
+    "thanks": "Thank you!",
+    "send": "Send",
+    "yes": "Yes",
+    "exit": "Exit",
+    "confirmBooking": "Confirm booking"
+  },
+  "Alerts": {
+    "showing": "Displaying flights to {{destination}}",
+    "booking": {
+      "success": "Flight booked successfully!",
+      "successReturn": "Return flight booked successfully!",
+      "noBooked": "No flight has been booked"
+    },
+    "sortOrder": "Results ordered by {{by}}",
+    "fetchingDataError": {
+      "title": "Oops...",
+      "text": "Oops something went wrong 😓",
+      "footer": "Please, try again later."
+    },
+    "challengeEnding": {
+      "title": "Congratulations, your booking has been confirmed!!",
+      "text": "✈️ This is the end of this demo App!! 🎉 (No actual booking has been confirmed)"
+    },
+    "finalBookingConfirmation": {
+      "title": "What is your email address?",
+      "text": "We need your email to confirm the booking",
+      "validationMessage": "Please, insert a valid email address"
+    },
+    "bookingConfirmAlert": {
+      "title": "Search for a return flight?"
+    },
+    "bookFlightSeats": {
+      "title": "How many passengers?",
+      "text": "(over 2 years old)",
+      "confirmSeats": "Confirm seats"
+    },
+    "noMatchingOriginToast": {
+      "title": "At the moment we do not have any available flights from your country 😓",
+      "text": "Do not worry! we still show you all available flights ✈️"
+    },
+    "noReturnFlightsAlert": {
+      "title": "There are no return flights available‼️",
+      "text": "All flights are full",
+      "confirmButtonText": "Confirm one-way",
+      "denyButtonText": "Clean flights"
+    }
+  },
+  "Nav": {
+    "destinations": "Destinations",
+    "offers": "Offers",
+    "aboutUs": "About us"
+  },
+  "Welcome": {
+    "title": "👋 Welcome!",
+    "subtitle": {
+      "one": "This App aims to help you build flight travelplans through South America in the easiest way!",
+      "two": "Tell us where do you travel from, what is your maximum flight budget and we will give you the bests flight recommendations for you!"
+    },
+    "button": {
+      "title": "<0>Where do I travel to?</0> with <1>Travel App</1>",
+      "subtitle": "Click to find out!"
+    }
+  },
+  "ImageGrid": {
+    "travelTo": "Travel to",
+    "knowMore": "Know more! Comming soon"
+  },
+  "BookingInfo": {
+    "yourBooking": "Your booking:",
+    "yourFlight": "Your flight:",
+    "firstLeg": "Departure flight:",
+    "secondLeg": "Return flight:",
+    "chooseSecondLeg": "Choose your return flight",
+    "finalPrice": "Final price: {{price}}",
+    "changeOrigin": "Change origin",
+    "cleanFlights": "Clean flights"
+  },
+  "DestinationOptions": {
+    "chooseFlight": "Choose your ideal destination",
+    "returnFlight": "Choose your returning flight",
+    "visit": "We recommend you to visit {{destination}}"
+  },
+  "Flights": {
+    "origin": "Origin",
+    "destination": "Destination",
+    "date": "Date",
+    "seats": "Seats",
+    "price": "Price",
+    "departure": "Departure",
+    "arrival": "Arrival",
+    "passengers": "Passengers",
+    "sort": "Click on titles to sort options",
+    "departureIn": "Departure in {{date}}",
+    "seatsAvailable": "<0>Last seat!</0>",
+    "seatsAvailable_plural": "<0>{{count}}</0> seats left!",
+    "full": "Flight full",
+    "pricePerPAX": "Price per passenger",
+    "nonStop": "Non-stop flight!"
+  },
+  "Modal": {
+    "loading": {
+      "title": "Loading amazing destinations"
+    },
+    "intro": {
+      "title": "Please fill the form",
+      "subtitle": "Please fill the required information so we can give you the best and more affordable flight options for your trip 🧳",
+      "inputs": {
+        "name": "What is your name?",
+        "from": "Departing from?",
+        "budget": "What is your budget?"
+      },
+      "seeOffers": "Search offers"
+    }
+  }
+}
